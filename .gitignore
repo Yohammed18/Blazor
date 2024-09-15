@@ -1,0 +1,6 @@
+.vs
+.github
+frontend/bin
+frontend/obj
+API/obj/
+API/bin/
